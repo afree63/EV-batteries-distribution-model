@@ -1,0 +1,5 @@
+charged_battery_at_farm: 25 50 100
+		->hub car: 5 10
+			farm car: 5
+		->farm car: 5 10 15
+			hub car: 5
